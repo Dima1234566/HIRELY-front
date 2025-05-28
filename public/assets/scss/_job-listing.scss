@@ -484,21 +484,15 @@
     &.border-style {
         border: 1px solid #DBE8E5;  
     }
-    .logo {
-        width: 60px;
-    }
     .title {
         font-size: 19px;
         color: #000;
         line-height: 1.5em;
-        width: calc(100% - 90px);
-        margin-left: 30px;
         &:hover {
             color: $color-three;
         }
     }
     .split-box1 {
-        width: calc(100% - 60px);
         padding-left: 30px;
         .title {
             width: 100%;
@@ -630,20 +624,13 @@
     &:hover {
         box-shadow: 0px 20px 40px rgba(22, 105, 70, 0.08);
     }
-    .logo {
-        height: 45px;
-        width: fit-content;
-        img {
-            max-height: 100%;
-        }
-    }
     .job-duration {
        font-size: 13px;
        color: $color-three;
        padding: 2px 12px;
        background: #E7F6EF;
        border-radius: 3px;
-       margin: 54px 0 16px;
+       margin: 22px 0 16px;
        &.part-time {
         background: rgba($color: #FF5757, $alpha: 0.08);
         color: #FF6060;
@@ -754,12 +741,7 @@
             padding-bottom: 30px;
             margin-bottom: 25px;
         }
-        .logo {
-            width: 50px;
-        }
         .info-wrapper {
-            width: calc(100% - 50px);
-            padding-left: 22px;
             padding-right: 37px;
         }
         .title {

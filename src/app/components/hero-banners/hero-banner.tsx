@@ -16,7 +16,7 @@ const HeroBanner = () => {
           <div className="row">
             <div className="col-lg-6">
               <h1 className="wow fadeInUp" data-wow-delay="0.3s">
-                Find & Hire <span>Top 3% of expert on Hirely.</span>
+                Find & Hire <span>Top expert on Hirely.</span>
               </h1>
               <p
                 className="text-lg text-white mt-40 md-mt-30 mb-50 md-mb-30 wow fadeInUp"

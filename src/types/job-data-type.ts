@@ -2,7 +2,6 @@ import { StaticImageData } from "next/image";
 
 export interface IJobType {
   id: number;
-  logo: StaticImageData;
   title: string;
   duration: string;
   date: string;
